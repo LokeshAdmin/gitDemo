@@ -1,0 +1,5 @@
+13:40:26.204 [main] INFO  pageFactoryTestCases.OHRMForgotPasswordTest - StepPass: Found the reset request message successfully
+13:43:01.505 [main] INFO  pageFactoryTestCases.OHRMForgotPasswordTest - StepPass:On Login Page
+13:43:13.408 [main] ERROR pageFactoryTestCases.OHRMForgotPasswordTest - StepFail: User Logged in with invalid credentials
+13:43:15.040 [main] ERROR pageFactoryTestCases.OHRMForgotPasswordTest - StepFail: incorrect reset request message
+13:43:15.040 [main] INFO  pageFactoryTestCases.OHRMForgotPasswordTest - StepPass: Found the reset request message successfully

@@ -1,0 +1,6 @@
+01:44:12.811 [main] DEBUG PaceMatic.OHRMAppTests.OHRMForgotPasswordTest - Username: adminC
+01:44:12.813 [main] DEBUG PaceMatic.OHRMAppTests.OHRMForgotPasswordTest - Password: adminC123
+01:44:24.136 [main] ERROR PaceMatic.OHRMAppTests.OHRMForgotPasswordTest - StepFail: Credentials are not working
+01:44:24.166 [main] INFO  PaceMatic.OHRMAppTests.OHRMForgotPasswordTest - StepSuccess: Logout successful
+01:44:24.432 [main] DEBUG resources.Base - Initializing Driver
+01:44:25.850 [main] INFO  resources.Base - Windows Maximized

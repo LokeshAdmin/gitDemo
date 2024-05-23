@@ -1,0 +1,6 @@
+01:08:17.206 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+01:20:34.568 [main] DEBUG resources.Base - Initializing Driver
+01:20:39.931 [main] INFO  resources.Base - Windows Maximized
+01:20:39.949 [main] DEBUG resources.Base - Implicit wait set as 10 seconds
+01:20:39.949 [main] INFO  resources.Base - Successfully initialized driver, browser launched successfully
+01:20:40.269 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels

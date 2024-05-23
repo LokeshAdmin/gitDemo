@@ -1,0 +1,7 @@
+02:55:27.547 [main] INFO  PaceMatic.qaClickAppTests.HomePageTest - Successfully navigated to the website
+02:55:28.490 [main] INFO  PaceMatic.qaClickAppTests.HomePageTest - Successfully Clicked on login
+02:55:28.989 [main] ERROR PaceMatic.qaClickAppTests.HomePageTest - Login is not successful
+02:55:28.989 [main] INFO  PaceMatic.qaClickAppTests.HomePageTest - test2
+02:55:29.214 [main] DEBUG resources.Base - Initializing Driver
+02:55:30.429 [main] INFO  resources.Base - Windows Maximized
+02:55:30.432 [main] DEBUG resources.Base - Implicit wait set as 10 seconds

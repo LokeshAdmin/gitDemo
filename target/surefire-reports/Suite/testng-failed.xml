@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="resources.listeners"/>
+  </listeners>
+  <test thread-count="5" name="OHRM(failed)" verbose="0">
+    <classes>
+      <class name="PaceMatic.OHRMAppTests.OHRMDataDrivenTest">
+        <methods>
+          <include name="LaunchBrowser"/>
+          <include name="closeBrowser"/>
+          <include name="LoginDDTTest"/>
+        </methods>
+      </class> <!-- PaceMatic.OHRMAppTests.OHRMDataDrivenTest -->
+      <class name="PaceMatic.OHRMAppTests.OHRMLoginLogoutTestNGTest">
+        <methods>
+          <include name="loginLogoutTest"/>
+          <include name="LaunchOrangeHRM"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- PaceMatic.OHRMAppTests.OHRMLoginLogoutTestNGTest -->
+      <class name="PaceMatic.OHRMAppTests.OHRMForgotPasswordTest">
+        <methods>
+          <include name="LaunchOrangeHRM"/>
+          <include name="ForgotPasswordTest"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- PaceMatic.OHRMAppTests.OHRMForgotPasswordTest -->
+    </classes>
+  </test> <!-- OHRM(failed) -->
+  <test thread-count="5" name="QAClick(failed)" verbose="0">
+    <classes>
+      <class name="PaceMatic.qaClickAppTests.ValidateNavigationBar">
+        <methods>
+          <include name="initialize"/>
+          <include name="NavigationBarTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- PaceMatic.qaClickAppTests.ValidateNavigationBar -->
+    </classes>
+  </test> <!-- QAClick(failed) -->
+</suite> <!-- Failed suite [Suite] -->

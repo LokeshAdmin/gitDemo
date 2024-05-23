@@ -1,0 +1,6 @@
+02:53:39.276 [main] INFO  PaceMatic.OHRMAppTests.OHRMForgotPasswordTest - StepPass:On Login Page
+02:53:51.916 [main] ERROR PaceMatic.OHRMAppTests.OHRMForgotPasswordTest - StepFail: User Logged in with invalid credentials
+02:54:05.822 [main] DEBUG resources.Base - Initializing Driver
+02:54:07.359 [main] INFO  resources.Base - Windows Maximized
+02:54:07.362 [main] DEBUG resources.Base - Implicit wait set as 10 seconds
+02:54:07.363 [main] INFO  resources.Base - Successfully initialized driver, browser launched successfully

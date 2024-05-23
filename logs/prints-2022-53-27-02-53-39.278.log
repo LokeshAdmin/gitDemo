@@ -1,0 +1,7 @@
+02:40:39.003 [main] INFO  resources.Base - Windows Maximized
+02:40:39.016 [main] DEBUG resources.Base - Implicit wait set as 10 seconds
+02:40:39.016 [main] INFO  resources.Base - Successfully initialized driver, browser launched successfully
+02:53:25.355 [main] DEBUG resources.Base - Initializing Driver
+02:53:35.565 [main] INFO  resources.Base - Windows Maximized
+02:53:35.571 [main] DEBUG resources.Base - Implicit wait set as 10 seconds
+02:53:35.571 [main] INFO  resources.Base - Successfully initialized driver, browser launched successfully

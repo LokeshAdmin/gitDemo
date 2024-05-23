@@ -1,0 +1,6 @@
+02:55:30.432 [main] INFO  resources.Base - Successfully initialized driver, browser launched successfully
+02:55:52.306 [main] INFO  PaceMatic.qaClickAppTests.HomePageTest - Successfully navigated to the website
+02:55:53.029 [main] INFO  PaceMatic.qaClickAppTests.HomePageTest - Successfully Clicked on login
+02:55:53.593 [main] ERROR PaceMatic.qaClickAppTests.HomePageTest - Login is not successful
+02:55:53.594 [main] INFO  PaceMatic.qaClickAppTests.HomePageTest - test3
+02:55:53.769 [main] DEBUG resources.Base - Initializing Driver

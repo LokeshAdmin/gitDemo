@@ -1,0 +1,5 @@
+01:20:42.754 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+01:20:46.726 [main] DEBUG pageFactoryTestCases.OHRMForgotPasswordTest - Username: admin
+01:20:46.726 [main] DEBUG pageFactoryTestCases.OHRMForgotPasswordTest - Password: admin123
+01:20:52.855 [main] INFO  pageFactoryTestCases.OHRMForgotPasswordTest - StepSuccess: Credentials are working
+01:20:54.228 [main] INFO  pageFactoryTestCases.OHRMForgotPasswordTest - StepSuccess: Logout successful

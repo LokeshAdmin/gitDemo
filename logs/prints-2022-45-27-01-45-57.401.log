@@ -1,0 +1,7 @@
+01:45:45.968 [main] INFO  resources.Base - Feature course is displayed
+01:45:46.390 [main] DEBUG resources.Base - Initializing Driver
+01:45:47.811 [main] INFO  resources.Base - Windows Maximized
+01:45:47.813 [main] DEBUG resources.Base - Implicit wait set as 10 seconds
+01:45:47.813 [main] INFO  resources.Base - Successfully initialized driver, browser launched successfully
+01:45:47.813 [main] INFO  resources.Base - Successfully initialized the driver
+01:45:57.335 [main] INFO  resources.Base - Successfully launched website

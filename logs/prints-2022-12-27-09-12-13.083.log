@@ -1,0 +1,5 @@
+09:12:01.212 [main] INFO  PaceMatic.OHRMAppTests.OHRMForgotPasswordTest - StepSuccess: Logout successful
+09:12:01.214 [main] DEBUG PaceMatic.OHRMAppTests.OHRMForgotPasswordTest - Username: adminA
+09:12:01.214 [main] DEBUG PaceMatic.OHRMAppTests.OHRMForgotPasswordTest - Password: adminA123
+09:12:13.052 [main] ERROR PaceMatic.OHRMAppTests.OHRMForgotPasswordTest - StepFail: Credentials are not working
+09:12:13.083 [main] INFO  PaceMatic.OHRMAppTests.OHRMForgotPasswordTest - StepSuccess: Logout successful

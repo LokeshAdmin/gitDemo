@@ -1,0 +1,6 @@
+00:23:40.757 [main] ERROR pageFactoryTestCases.OHRMForgotPasswordTest - StepFail: incorrect reset request message
+00:23:40.759 [main] INFO  pageFactoryTestCases.OHRMForgotPasswordTest - StepPass: Found the reset request message successfully
+00:23:41.056 [main] DEBUG resources.Base - Initializing Driver
+00:23:42.845 [main] INFO  resources.Base - Windows Maximized
+00:23:42.849 [main] DEBUG resources.Base - Implicit wait set as 10 seconds
+00:23:42.849 [main] INFO  resources.Base - Successfully initialized driver, browser launched successfully

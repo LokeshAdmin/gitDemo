@@ -1,0 +1,7 @@
+01:38:39.682 [main] ERROR PaceMatic.qaClickAppTests.HomePageTest - Login is not successful
+01:38:39.686 [main] INFO  PaceMatic.qaClickAppTests.HomePageTest - test3
+01:43:04.562 [main] DEBUG resources.Base - Initializing Driver
+01:43:06.772 [main] INFO  resources.Base - Windows Maximized
+01:43:06.776 [main] DEBUG resources.Base - Implicit wait set as 10 seconds
+01:43:06.776 [main] INFO  resources.Base - Successfully initialized driver, browser launched successfully
+01:43:15.170 [main] INFO  PaceMatic.OHRMAppTests.OHRMForgotPasswordTest - StepPass:On Login Page

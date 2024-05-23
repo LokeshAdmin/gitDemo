@@ -1,0 +1,6 @@
+02:54:25.096 [main] INFO  resources.Base - Successfully initialized driver, browser launched successfully
+02:54:43.254 [main] DEBUG resources.Base - Initializing Driver
+02:54:44.593 [main] INFO  resources.Base - Windows Maximized
+02:54:44.596 [main] DEBUG resources.Base - Implicit wait set as 10 seconds
+02:54:44.596 [main] INFO  resources.Base - Successfully initialized driver, browser launched successfully
+02:54:59.132 [main] INFO  PaceMatic.qaClickAppTests.HomePageTest - Successfully navigated to the website

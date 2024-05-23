@@ -1,0 +1,5 @@
+01:43:37.135 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+01:43:37.215 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+01:43:37.225 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+01:43:37.230 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+01:43:43.402 [main] DEBUG PaceMatic.OHRMAppTests.OHRMForgotPasswordTest - Username: admin

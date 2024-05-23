@@ -1,0 +1,6 @@
+13:58:01.237 [main] INFO  resources.Base - Windows Maximized
+13:58:01.486 [main] DEBUG resources.Base - Implicit wait set as 10 seconds
+13:58:01.486 [main] INFO  resources.Base - Successfully initialized driver, browser launched successfully
+13:58:05.364 [main] INFO  pageFactoryTestCases.OHRMForgotPasswordTest - StepPass:On Login Page
+13:58:17.222 [main] ERROR pageFactoryTestCases.OHRMForgotPasswordTest - StepFail: User Logged in with invalid credentials
+14:00:35.745 [main] DEBUG resources.Base - Initializing Driver

@@ -1,0 +1,6 @@
+01:04:06.301 [main] INFO  resources.Base - Successfully initialized driver, browser launched successfully
+01:04:20.600 [main] DEBUG resources.Base - Initializing Driver
+01:04:22.728 [main] INFO  resources.Base - Windows Maximized
+01:04:22.733 [main] DEBUG resources.Base - Implicit wait set as 10 seconds
+01:04:22.734 [main] INFO  resources.Base - Successfully initialized driver, browser launched successfully
+01:08:15.789 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels

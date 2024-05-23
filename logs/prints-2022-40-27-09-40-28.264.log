@@ -1,0 +1,6 @@
+09:12:35.685 [main] ERROR PaceMatic.OHRMAppTests.OHRMForgotPasswordTest - StepFail: Credentials are not working
+09:12:35.728 [main] INFO  PaceMatic.OHRMAppTests.OHRMForgotPasswordTest - StepSuccess: Logout successful
+09:39:37.908 [main] DEBUG resources.Base - Initializing Driver
+09:39:51.973 [main] INFO  resources.Base - Windows Maximized
+09:39:51.989 [main] DEBUG resources.Base - Implicit wait set as 10 seconds
+09:39:51.989 [main] INFO  resources.Base - Successfully initialized driver, browser launched successfully

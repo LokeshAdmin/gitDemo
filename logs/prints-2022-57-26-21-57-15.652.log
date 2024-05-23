@@ -1,0 +1,6 @@
+21:55:32.617 [main] ERROR pageFactoryTestCases.OHRMForgotPasswordTest - StepFail: User Logged in with invalid credentials
+21:56:56.707 [main] DEBUG resources.Base - Initializing Driver
+21:56:58.936 [main] INFO  resources.Base - Windows Maximized
+21:56:58.941 [main] DEBUG resources.Base - Implicit wait set as 10 seconds
+21:56:58.941 [main] INFO  resources.Base - Successfully initialized driver, browser launched successfully
+21:57:03.791 [main] INFO  pageFactoryTestCases.OHRMForgotPasswordTest - StepPass:On Login Page

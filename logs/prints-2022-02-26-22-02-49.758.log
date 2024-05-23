@@ -1,0 +1,6 @@
+22:02:46.515 [main] ERROR pageFactoryTestCases.OHRMForgotPasswordTest - StepFail: User Logged in with invalid credentials
+22:02:48.216 [main] ERROR pageFactoryTestCases.OHRMForgotPasswordTest - StepFail: incorrect reset request message
+22:02:48.216 [main] INFO  pageFactoryTestCases.OHRMForgotPasswordTest - StepPass: Found the reset request message successfully
+22:02:48.496 [main] DEBUG resources.Base - Initializing Driver
+22:02:49.755 [main] INFO  resources.Base - Windows Maximized
+22:02:49.757 [main] DEBUG resources.Base - Implicit wait set as 10 seconds

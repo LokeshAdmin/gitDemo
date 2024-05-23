@@ -1,0 +1,5 @@
+09:11:46.967 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+09:11:47.021 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+09:11:50.882 [main] DEBUG PaceMatic.OHRMAppTests.OHRMForgotPasswordTest - Username: admin
+09:11:50.883 [main] DEBUG PaceMatic.OHRMAppTests.OHRMForgotPasswordTest - Password: admin123
+09:11:59.854 [main] INFO  PaceMatic.OHRMAppTests.OHRMForgotPasswordTest - StepSuccess: Credentials are working

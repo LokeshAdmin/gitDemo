@@ -1,0 +1,31 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 325.342 s <<< FAILURE! - in TestSuite
+ForgotPasswordTest(PaceMatic.OHRMAppTests.OHRMForgotPasswordTest)  Time elapsed: 26.429 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='message warning fadable']"}
+  (Session info: chrome=99.0.4844.84)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'MININT-AC2OSS5', ip: '192.168.208.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d81951d13fd328b1604047d289b8f35b, findElement {using=xpath, value=//div[@class='message warning fadable']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.84, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\VODAFO~1.MIN\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:54707}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54707/devtoo..., se:cdpVersion: 99.0.4844.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d81951d13fd328b1604047d289b8f35b
+	at PaceMatic.OHRMAppTests.OHRMForgotPasswordTest.ForgotPasswordTest(OHRMForgotPasswordTest.java:67)
+
+LoginDDTTest(PaceMatic.OHRMAppTests.OHRMDataDrivenTest)  Time elapsed: 0.679 s  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/apache/commons/io/output/UnsynchronizedByteArrayOutputStream
+	at PaceMatic.OHRMAppTests.OHRMDataDrivenTest.LoginDDTTest(OHRMDataDrivenTest.java:32)
+Caused by: java.lang.ClassNotFoundException: org.apache.commons.io.output.UnsynchronizedByteArrayOutputStream
+	at PaceMatic.OHRMAppTests.OHRMDataDrivenTest.LoginDDTTest(OHRMDataDrivenTest.java:32)
+
+loginLogoutTest(PaceMatic.OHRMAppTests.OHRMLoginLogoutTestNGTest)  Time elapsed: 7.635 s  <<< FAILURE!
+java.lang.AssertionError: StepFail: Not on login page after logout expected [false] but found [true]
+	at PaceMatic.OHRMAppTests.OHRMLoginLogoutTestNGTest.loginLogoutTest(OHRMLoginLogoutTestNGTest.java:53)
+
+NavigationBarTest(PaceMatic.qaClickAppTests.ValidateNavigationBar)  Time elapsed: 0.671 s  <<< FAILURE!
+java.lang.AssertionError: expected [false] but found [true]
+	at PaceMatic.qaClickAppTests.ValidateNavigationBar.NavigationBarTest(ValidateNavigationBar.java:35)
+

@@ -1,0 +1,6 @@
+21:48:04.702 [main] INFO  resources.Base - Successfully initialized driver, browser launched successfully
+21:55:14.361 [main] DEBUG resources.Base - Initializing Driver
+21:55:16.995 [main] INFO  resources.Base - Windows Maximized
+21:55:17.029 [main] DEBUG resources.Base - Implicit wait set as 10 seconds
+21:55:17.030 [main] INFO  resources.Base - Successfully initialized driver, browser launched successfully
+21:55:21.587 [main] INFO  pageFactoryTestCases.OHRMForgotPasswordTest - StepPass:On Login Page

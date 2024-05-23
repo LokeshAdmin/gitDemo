@@ -1,0 +1,6 @@
+01:43:27.513 [main] ERROR PaceMatic.OHRMAppTests.OHRMForgotPasswordTest - StepFail: User Logged in with invalid credentials
+01:43:30.598 [main] ERROR PaceMatic.OHRMAppTests.OHRMForgotPasswordTest - StepFail: incorrect reset request message
+01:43:30.599 [main] INFO  PaceMatic.OHRMAppTests.OHRMForgotPasswordTest - StepPass: Found the reset request message successfully
+01:43:30.875 [main] DEBUG resources.Base - Initializing Driver
+01:43:32.252 [main] INFO  resources.Base - Windows Maximized
+01:43:32.259 [main] DEBUG resources.Base - Implicit wait set as 10 seconds

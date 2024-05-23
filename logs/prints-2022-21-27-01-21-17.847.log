@@ -1,0 +1,6 @@
+01:20:54.229 [main] DEBUG pageFactoryTestCases.OHRMForgotPasswordTest - Username: adminA
+01:20:54.254 [main] DEBUG pageFactoryTestCases.OHRMForgotPasswordTest - Password: adminA123
+01:21:06.034 [main] ERROR pageFactoryTestCases.OHRMForgotPasswordTest - StepFail: Credentials are not working
+01:21:06.067 [main] INFO  pageFactoryTestCases.OHRMForgotPasswordTest - StepSuccess: Logout successful
+01:21:06.067 [main] DEBUG pageFactoryTestCases.OHRMForgotPasswordTest - Username: adminB
+01:21:06.067 [main] DEBUG pageFactoryTestCases.OHRMForgotPasswordTest - Password: adminB123

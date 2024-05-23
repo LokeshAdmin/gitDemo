@@ -1,0 +1,5 @@
+01:21:17.805 [main] ERROR pageFactoryTestCases.OHRMForgotPasswordTest - StepFail: Credentials are not working
+01:21:17.962 [main] INFO  pageFactoryTestCases.OHRMForgotPasswordTest - StepSuccess: Logout successful
+01:21:17.962 [main] DEBUG pageFactoryTestCases.OHRMForgotPasswordTest - Username: adminC
+01:21:17.962 [main] DEBUG pageFactoryTestCases.OHRMForgotPasswordTest - Password: adminC123
+01:21:29.747 [main] ERROR pageFactoryTestCases.OHRMForgotPasswordTest - StepFail: Credentials are not working
